@@ -2,9 +2,7 @@
 - 👀 "I am interested in the fields of neural networks, machine learning, and control in electrical engineering.".
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:
--  my telegram ID: https://t.me/c/1325983333/5113
--  my email: Sajadlaghaee.sl@gmail.com
+- 📫 How to reach me: email or telegram 
 - ⚡ Fun fact: Everything will be alright in the end. If it's not alright, it's not the end. 
 
 <!---
